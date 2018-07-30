@@ -6,7 +6,7 @@
 
 ## Генерация нод
 * Откройте терминал и перейдите в директорию `obligation-cordapp` 
-* Постройте ноды, иcпользуя комманду:
+* Постройте ноды, иcпользуя команду:
     * Unix/Mac OSX: `./gradlew deployNodes`
     * Windows: `gradlew.bat deployNodes`
 ## Конфигурация нод
